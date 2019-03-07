@@ -90,15 +90,12 @@ html {
 /* The below style is only for the content in the p tag(home) */
 .about {
   font-family: "Exo 2";
-  font-weight: bold;
+  font-weight: 700;
+  font-size: 20px;
   color: #7a7c84;
-  font-size: 1.25em;
-  margin-left: 13em;
-  margin-right: 30em;
-  line-height: 1.5em;
+  line-height: 30px;
   margin-top: 5.6em;
   margin-bottom: 10em;
-  /* position: absolute; */
   top: 645px;  
 }
 
